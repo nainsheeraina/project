@@ -8,3 +8,12 @@ p {
     background-color: skyblue; 
     font-size: 14px;
 }
+.a{
+    background-color: aliceblue;
+}
+#b{
+    color: aquamarine;
+}
+c.b{
+    font-size: 100px;
+}
